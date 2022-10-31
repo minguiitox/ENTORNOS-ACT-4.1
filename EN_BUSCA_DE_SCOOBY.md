@@ -2,7 +2,7 @@
 ## **Viajando en furgoneta camper**
 ### **Ahora os contaremos lo que llevamos en nuestra casa con ruedas**
 
-## **INDICE**
+## **INDICE** (#1)
 
 1. Lista ordenada.
 2. lista desordenada.
@@ -92,8 +92,7 @@ Algunas fotos de la Isla de Ré (enlace foto interna)
 
 ## **Enlace al mismo documento**
 
-[INDICE](## **INDICE**)
-
+[INDICE](#1)
 ## **Tabla
 
 | 1ª Columna | 2ª Columna | 3ª Columna |
