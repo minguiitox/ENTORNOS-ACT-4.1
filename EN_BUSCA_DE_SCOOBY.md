@@ -37,45 +37,27 @@ pero no por ello menos importante (esto es una lista ordenada)
 
         Os dejamos una web en la que podeis ve algunas rutas que se pueden realizar allí (enlace web externa)
 
-[Rutas Cañon Rio Lobos](https://www.xn--caondelriolobos-zqb.com/rutas-senderismo.html)
+[rutas](https://www.xn--caondelriolobos-zqb.com/rutas-senderismo.html)
 
-<<<<<<< Updated upstream
+
     * __La Selva de Irati.__
-=======
-<<<<<<< HEAD
-    *__La Selva de Irati.__
-=======
-    * __La Selva de Irati.__
->>>>>>> master
->>>>>>> Stashed changes
+
 
         algunas fotos de la Selva de Irati (enlace foto externa)
 
 |[Imagen1](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.001.jpeg) 
 |[Imagen2]](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.002.jpeg)
 
-<<<<<<< Updated upstream
+
     * __Las Landas (Francia).__
-=======
-<<<<<<< HEAD
-    *__Las Landas (Francia).__
-=======
-    * __Las Landas (Francia).__
->>>>>>> master
->>>>>>> Stashed changes
+
 
 |[Imagen3](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.003.jpeg) 
 |[Imagen4](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.004.jpeg)
 
-<<<<<<< Updated upstream
+
     * __Isla de Ré (preciosa y recomendable).__
-=======
-<<<<<<< HEAD
-    *__Isla de Ré (preciosa y recomendable).__
-=======
-    * __Isla de Ré (preciosa y recomendable).__
->>>>>>> master
->>>>>>> Stashed changes
+
 __Algunas fotos de la Isla de Ré__ (enlace foto interna)
 
 |[Ruinas](C:\Users\Minguitox\Desktop\repositoriosED\ENTORNOS-ACT-4.1)
