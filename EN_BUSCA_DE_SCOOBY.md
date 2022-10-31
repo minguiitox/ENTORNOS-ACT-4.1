@@ -37,7 +37,7 @@ pero no por ello menos importante (esto es una lista ordenada)
 
         Os dejamos una web en la que podeis ve algunas rutas que se pueden realizar allí (enlace web externa)
 
-        |[Rutas Cañon Rio Lobos](https://www.xn--caondelriolobos-zqb.com/rutas-senderismo.html)
+        [Rutas Cañon Rio Lobos](https://www.xn--caondelriolobos-zqb.com/rutas-senderismo.html)
 
     *__- La Selva de Irati.__
 
