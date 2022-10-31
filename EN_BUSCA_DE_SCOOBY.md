@@ -92,7 +92,7 @@ Algunas fotos de la Isla de Ré (enlace foto interna)
 
 ## **Enlace al mismo documento**
 
-[Rutas cañón Rio Lobo](Cañon del Rio Lobo.)
+[Rutas cañón Rio Lobo]([rutas](https://www.xn--caondelriolobos-zqb.com/rutas-senderismo.html))
 
 ## **Tabla
 
