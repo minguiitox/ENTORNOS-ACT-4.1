@@ -43,16 +43,16 @@ pero no por ello menos importante (esto es una lista ordenada)
 
         algunas fotos de la Selva de Irati (enlace foto externa)
 
-        ![](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.001.jpeg) ![](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.002.jpeg)
+        ![Imagen1](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.001.jpeg) [Imagen2]](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.002.jpeg)
 
     *__- Las Landas (Francia).__
 
-        ![](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.003.jpeg) ![](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.004.jpeg)
+        ![Imagen3](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.003.jpeg) ![Imagen4](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.004.jpeg)
 
     *__Isla de Ré (preciosa y recomendable).__
         Algunas fotos de la Isla de Ré (enlace foto interna)
 
-        ![](C:\Users\Minguitox\Desktop\repositoriosED\ENTORNOS-ACT-4.1)
+        ![Ruinas](C:\Users\Minguitox\Desktop\repositoriosED\ENTORNOS-ACT-4.1)
 
 ## __**Codigo Java**__
 
