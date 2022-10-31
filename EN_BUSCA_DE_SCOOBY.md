@@ -45,15 +45,15 @@ pero no por ello menos importante (esto es una lista ordenada)
 
         algunas fotos de la Selva de Irati (enlace foto externa)
 
-|[Imagen1](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.001.jpeg) 
-|[Imagen2]](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.002.jpeg)
+|[Imagen1](https://selvadeirati.es/wp-content/uploads/2021/04/alrededores-gorbeia.jpg) 
+|[Imagen2]](https://media.traveler.es/photos/6137793ecb06ad0f20e1335d/master/pass/102755.jpg)
 
 
     * __Las Landas (Francia).__
 
 
-|[Imagen3](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.003.jpeg) 
-|[Imagen4](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.004.jpeg)
+|[Imagen3](https://www.landas-vacaciones.com/wp-content/uploads/sites/4/2019/02/littoral-vue-aerienne-drone-asebastien_chebassier.jpg) 
+
 
 
     * __Isla de Ré (preciosa y recomendable).__
