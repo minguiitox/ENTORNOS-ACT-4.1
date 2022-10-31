@@ -92,7 +92,7 @@ Algunas fotos de la Isla de Ré (enlace foto interna)
 
 ## **Enlace al mismo documento**
 
-[Rutas](#rutas)
+[Rutas](# rutas)
 
 ## **Tabla
 
