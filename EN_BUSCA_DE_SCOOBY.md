@@ -14,7 +14,7 @@
 
 
 Lo iremos ennumerando de lo que valoramos como lo mas necesario a lo accesorio
-pero no por ello menos importante (esto es una lista ordenada)
+pero no por ello menos importante (esto es una lista ordenada):
 
 1. La cama fija siempre bien hecha.
 2. Bateria auxliar.
