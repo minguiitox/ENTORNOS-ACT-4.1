@@ -33,26 +33,26 @@ pero no por ello menos importante (esto es una lista ordenada)
 
 * Y ahora algunos de los lugares en los que hemos estado con nuestra Scoobyneta (Lista desordenada)
 
-    *__- Cañon del Rio Lobo.__
+    * Cañon del Rio Lobo.__
 
         Os dejamos una web en la que podeis ve algunas rutas que se pueden realizar allí (enlace web externa)
 
 [Rutas Cañon Rio Lobos](https://www.xn--caondelriolobos-zqb.com/rutas-senderismo.html)
 
-    *__- La Selva de Irati.__
+    * __La Selva de Irati.__
 
         algunas fotos de la Selva de Irati (enlace foto externa)
 
 |[Imagen1](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.001.jpeg) 
 |[Imagen2]](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.002.jpeg)
 
-    *__- Las Landas (Francia).__
+    * __Las Landas (Francia).__
 
 |[Imagen3](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.003.jpeg) 
 |[Imagen4](Aspose.Words.da5c61d7-b106-420a-9cd1-a30642a0d89c.004.jpeg)
 
-    *__Isla de Ré (preciosa y recomendable).__
-        Algunas fotos de la Isla de Ré (enlace foto interna)
+    * __Isla de Ré (preciosa y recomendable).__
+__Algunas fotos de la Isla de Ré__ (enlace foto interna)
 
 |[Ruinas](C:\Users\Minguitox\Desktop\repositoriosED\ENTORNOS-ACT-4.1)
 
