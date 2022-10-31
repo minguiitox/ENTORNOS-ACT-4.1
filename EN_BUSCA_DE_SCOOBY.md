@@ -61,7 +61,7 @@ pero no por ello menos importante (esto es una lista ordenada)
 
 Algunas fotos de la Isla de Ré (enlace foto interna)
 
-|[Ruinas](ENTORNOS-ACT-4.1/17_ISLA_DE_RE (16).jpg)
+|[Ruinas](https://github.com/minguiitox/ENTORNOS-ACT-4.1/blob/master/17_ISLA_DE_RE%20(16).jpg)
 
 ## __**Codigo Java**__
 
