@@ -92,7 +92,7 @@ Algunas fotos de la Isla de Ré (enlace foto interna)
 
 ## **Enlace al mismo documento**
 
-[Rutas](EN_BUSCA_DE_SCOOBY.md#indice)
+[Codigo Java](EN_BUSCA_DE_SCOOBY.md#codigo-java)
 
 ## **Tabla
 
