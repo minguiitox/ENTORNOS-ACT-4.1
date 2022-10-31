@@ -33,34 +33,35 @@ pero no por ello menos importante (esto es una lista ordenada)
 
 * Y ahora algunos de los lugares en los que hemos estado con nuestra Scoobyneta (Lista desordenada)
 
-    * Cañon del Rio Lobo.__
+    * Cañon del Rio Lobo.
 
         Os dejamos una web en la que podeis ve algunas rutas que se pueden realizar allí (enlace web externa)
 
 [rutas](https://www.xn--caondelriolobos-zqb.com/rutas-senderismo.html)
 
 
-    * __La Selva de Irati.__
+    * La Selva de Irati.
 
 
         algunas fotos de la Selva de Irati (enlace foto externa)
 
 |[Imagen1](https://selvadeirati.es/wp-content/uploads/2021/04/alrededores-gorbeia.jpg) 
-|[Imagen2]](https://media.traveler.es/photos/6137793ecb06ad0f20e1335d/master/pass/102755.jpg)
+
+|[Imagen2](https://media.traveler.es/photos/6137793ecb06ad0f20e1335d/master/pass/102755.jpg)
 
 
-    * __Las Landas (Francia).__
+    * Las Landas (Francia).
 
 
 |[Imagen3](https://www.landas-vacaciones.com/wp-content/uploads/sites/4/2019/02/littoral-vue-aerienne-drone-asebastien_chebassier.jpg) 
 
 
 
-    * __Isla de Ré (preciosa y recomendable).__
+    * Isla de Ré (preciosa y recomendable).
 
-__Algunas fotos de la Isla de Ré__ (enlace foto interna)
+Algunas fotos de la Isla de Ré (enlace foto interna)
 
-|[Ruinas](C:\Users\Minguitox\Desktop\repositoriosED\ENTORNOS-ACT-4.1)
+|[Ruinas](ENTORNOS-ACT-4.1/17_ISLA_DE_RE (16).jpg)
 
 ## __**Codigo Java**__
 
@@ -92,6 +93,19 @@ __Algunas fotos de la Isla de Ré__ (enlace foto interna)
 ## **Enlace al mismo documento**
 
 [Rutas cañón Rio Lobo](Cañon del Rio Lobo.)
+
+## **Tabla
+
+| 1ª Columna | 2ª Columna | 3ª Columna |
+| -- | -- | -- |
+| Rutas | Materiales | Fotos |
+
+## **Lista con check
+
+- [ ] Rutas
+- [ ] Materiales
+- [ ] Fotos
+
 
 
 
