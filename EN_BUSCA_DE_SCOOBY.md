@@ -89,7 +89,7 @@ Algunas fotos de la Isla de Ré (enlace foto interna)
                 System.out.println(("la división es ")+(num01/num
 
         }
-        ```
+        ````
 ## **Enlace al mismo documento**
 
 [Codigo Java](EN_BUSCA_DE_SCOOBY.md#codigo-java)
